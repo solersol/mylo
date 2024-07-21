@@ -20,7 +20,8 @@ export default {
       fontFamily: {
         palanquin: ['Palanquin', 'sans-serif'],
         montserrat: ['Montserrat', 'sans-serif'],
-        anton: ['Anton SC', 'sans-serif']
+        anton: ['Anton SC', 'sans-serif'],
+        comic: ['Comic Neue', 'cursive']
       },
       colors: {
         'primary': "#ECEEFF",
