@@ -58,7 +58,7 @@ const About2 = () => {
           DONT MISS OUT ON THIS GEM OUT OF PUMP FUN COME AND JOIN THE COMMUNITY !
         </h2>
         <a href="https://t.me/">
-          <button className="bg-[#0a2d6b] text-white px-6 py-3 rounded-full text-xl font-anton hover:bg-[#ff0000]">
+          <button className="bg-[#2e1515] text-white px-6 py-3 rounded-full text-xl font-anton hover:bg-[#f0ff00]">
             JOIN $MYLO
           </button>
         </a>
