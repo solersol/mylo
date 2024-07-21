@@ -50,11 +50,11 @@ const About2 = () => {
 
   return (
     <section className="relative w-full h-screen bg-cover bg-center flex items-center justify-center">
-      <div className="text-center">
-        <h1 ref={h1Ref} className="text-black text-[50px] mb-20 font-anton transition-transform duration-1000 transform -translate-x-full opacity-0">
+      <div className="text-center mb-[32rem]">
+        <h1 ref={h1Ref} className="text-black text-[50px]  font-anton transition-transform duration-1000 transform -translate-x-full opacity-0">
           JOIN $MYLO
         </h1>
-        <h2 ref={h2Ref} className="text-white text-3xl mb-8 max-w-[500px] font-anton transition-transform duration-1000 transform translate-x-full opacity-0">
+        <h2 ref={h2Ref} className="text-white text-3xl mb-2 max-w-[500px] font-anton transition-transform duration-1000 transform translate-x-full opacity-0">
           DONT MISS OUT ON THIS GEM OUT OF PUMP FUN COME AND JOIN THE COMMUNITY !
         </h2>
         <a href="https://t.me/">
