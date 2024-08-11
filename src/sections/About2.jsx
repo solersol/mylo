@@ -57,7 +57,7 @@ const About2 = () => {
         <h2 ref={h2Ref} className="text-[#fcffd3] text-3xl mb-2 max-w-[500px] font-comic  transition-transform duration-1000 transform translate-x-full opacity-0">
           DONT MISS OUT ON THIS GEM OUT OF PUMP FUN COME AND JOIN THE COMMUNITY !
         </h2>
-        <a href="https://t.me/MylosMagicShow">
+        <a href="https://t.me/Myloshow">
           <button className="bg-[#2e1515] text-[#fcffd3] px-6 py-3 rounded-full text-xl font-comic  hover:bg-[#f0ff00]">
             JOIN $MYLO
           </button>
