@@ -6,7 +6,7 @@ const Hero = () => {
       <a href="https://pump.fun/3vGkkC1czcMMnTrErenwBgXLNEFcqVqnMYutX96Dpump"><button className="mt-6 bg-[#2e1515] text-[#fcffd3] rounded-full px-10 py-4 hover:bg-[#f0ff00] font-comic  text-[24px]">
         BUY $MYLO
       </button></a>
-      <h1 className="flex justify-center font-comic  text-[35px] mt-6 text-center px-4 break-words text-[#fcffd3]">CA: LOADING ...  </h1>
+      <h1 className="flex justify-center font-comic  text-[35px] mt-6 text-center px-4 break-words text-[#fcffd3]">CA: 3vGkkC1czcMMnTrErenwBgXLNEFcqVqnMYutX96Dpump </h1>
 
     </section>
   );
